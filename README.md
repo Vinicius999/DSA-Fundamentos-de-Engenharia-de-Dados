@@ -3,7 +3,7 @@
 ## O que é Engenharia de Dados?
 
 <p>
-<img src="whats-data-engineering.png"></img>
+<img src="https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/whats-data-engineering.png"></img>
 </p>
 
 <p>
