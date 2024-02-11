@@ -4,8 +4,6 @@
 
 <img src="https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/whats-data-engineering.png"></img>
 
-
-
 **Engenharia de Dados** é um conjunto de técnicas e procedimentos para tornar os dados disponíveis para uso em um formato utilizável.
 
 
@@ -25,7 +23,6 @@
 
 
 ## Engenheiro de Dados x Cientista de Dados
-<p>
 
 Antes de mais nada, compreenda que Cientistas de Dados e Engenheiros de Dados são profissionais  diferentes,  com  perfis  diferentes  e  que  usam  essencialmente  ferramentas diferentes.
 
@@ -42,7 +39,7 @@ No entanto, os Cientistas de Dados geralmente transformam seus dados com o objet
 Embora possam usar as mesmasferramentas os propósitos são diferentes. Engenheiros de Dados estão preocupados com o fluxo de dados. Cientistas de Dados estão preocupados com o processo científico de análise dos dados e Machine Learning.
 
 Os Engenheiros de Dados geralmente coletam dados de diferentes fontes, transformam os  dados  em  diferentes  formatos  e,  em  seguida,  entregam  os  dados  aAnalistas  de  Dados,Cientistas de Dados ou Engenheiros de IA. Essa “entrega” pode se dar por meio de repositórios de  dados  como  Data  Warehouses  e  Data  Lakes,  por  meio  de  APIs  de  acesso,  por  meio  de containers, por meio de pipelines ou outras opções.
-</p>
+
 
 ## Engenheiro de Dados x Arquiteto de Dados
 
@@ -67,5 +64,13 @@ Os  Arquitetos  de  Dados trabalham em estreita colaboração com os Engenheiros
 De forma simples e resumida: O Arquiteto de Dados projeta e o Engenheiro de Dados executa.
 
 Se  uma  empresa  não  tem  um  Arquiteto  de  Dados é  comum  o  Engenheiro  de  Dados realizar o trabalho de projetar e planejar a solução de dados.
-</p>
+
+
+
+## O que é um Pipeline de Dados?
+
+<img src="https://9013214.fs1.hubspotusercontent-na1.net/hubfs/9013214/imagem-pt-Artigo-de-Blog--Pipeline-de-dados.jpg"></img>
+
+**Pipeline de Dados** é um meio de mover os dados de uma origem até o seu destino. Ao longo do caminho, são aplicadas transformações nesses dados com o objetivo de deixar os dados no formato ideal para para o seu destino.
+
 
