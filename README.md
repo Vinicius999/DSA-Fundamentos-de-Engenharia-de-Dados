@@ -74,3 +74,5 @@ Se  uma  empresa  não  tem  um  Arquiteto  de  Dados é  comum  o  Engenheiro  
 **Pipeline de Dados** é um meio de mover os dados de uma origem até o seu destino. Ao longo do caminho, são aplicadas transformações nesses dados com o objetivo de deixar os dados no formato ideal para para o seu destino.
 
 
+## O que é CI/CD (Integração Contínua / Entrega Contínua) ?
+
