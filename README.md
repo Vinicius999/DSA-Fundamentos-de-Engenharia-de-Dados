@@ -2,7 +2,7 @@
 
 ## O que é Engenharia de Dados?
 
-<img src="https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/whats-data-engineering.png"></img>
+<img src="https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/whats-data-engineering.png" alt="whats-data-engineering"></img>
 
 **Engenharia de Dados** é um conjunto de técnicas e procedimentos para tornar os dados disponíveis para uso em um formato utilizável.
 
@@ -85,3 +85,15 @@ Um pipeline de CI/CD automatiza os dois processos a seguir para um processo de e
 **Entrega contínua (ou implantação contínua) para lançamentos de código.** O CD permite o desenvolvimento incremental de ciclo curto e permite que as equipes de desenvolvimento criem e liberem software a qualquer momento. Também ajuda as equipes devops a reduzir custos e acelerar a implantação de novos lançamentos. O CD requer uma estrutura altamente repetível e é frequentemente considerado uma extensão do CI.
 
 Um pipeline de CI/CD combina criação, teste e implantação de código em um processo contínuo,  garantindo  que  todas  as  alterações  no  código  do repositório principal  possam  ser liberadas para produção. Um pipeline automatizado de CI/CD evita erros manuais, fornece loops de feedback padronizados para desenvolvedores e permite iterações rápidas de software. O conceito de CI/CD está cada vez mais sendoaplicadoem Engenharia de Dados criando o que hoje chamamos de DataOps, com a operaçãocontínua da plataforma de dados.
+
+## Pipeline ETL x Pipeline de Dados x Pipeline de Machine Learning
+
+
+
+## A importância da Arquitetura de Pipelines de Dados
+
+Sempre iniciamos um projeto de pipeline de dados pela **compreensão dos requisitos de negócio** e o que se esperado uso de dados no dia a dia.
+
+
+
+
