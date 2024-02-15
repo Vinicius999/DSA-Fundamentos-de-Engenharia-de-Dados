@@ -2,7 +2,7 @@
 
 ## O que é Engenharia de Dados?
 
-<img src="https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/whats-data-engineering.png" alt="whats-data-engineering"></img>
+![whats-data-engineering](https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/whats-data-engineering.png)
 
 **Engenharia de Dados** é um conjunto de técnicas e procedimentos para tornar os dados disponíveis para uso em um formato utilizável.
 
@@ -88,7 +88,7 @@ Um pipeline de CI/CD combina criação, teste e implantação de código em um p
 
 ## Pipeline ETL x Pipeline de Dados x Pipeline de Machine Learning
 
-
+![Pipeline de Dados x Pipeline ETL x Pipeline de Machine Learning](https://github.com/Vinicius999/DSA-Fundamentos-de-Engenharia-de-Dados/blob/main/images/pipelies.png)
 
 ## A importância da Arquitetura de Pipelines de Dados
 
