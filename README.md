@@ -94,7 +94,7 @@ Um pipeline de CI/CD combina criação, teste e implantação de código em um p
 
 Sempre iniciamos um projeto de pipeline de dados pela **compreensão dos requisitos de negócio** e o que se esperado uso de dados no dia a dia.
 
-## Comece a Arquitetura de Pipelines de Dados por essas Perguntas
+## Comece a Arquitetura de Pipelines de Dados por essas perguntas
 
 1. Quais são os requisitos de negócios?
 2. Quais os resultados finais são necessários?
@@ -104,6 +104,14 @@ Sempre iniciamos um projeto de pipeline de dados pela **compreensão dos requisi
 6. Quanto de armazenamento será necessário?
 7. Quanto de capacidade computacional será necessário?
 8. Usaremos em batch, em streaming ou ambos?
+9. Já temos tecnologia que permita criar pipelines?
+10. Quais tecnologias devem ser consideradas?
+11. Quais são os Acordos de Nível de Serviço (SLA's) ?
+12. Qual o custo de implementar e manter os pipelines?
+13. Qual será o destino do pipeline
+14. Como será monitorado?
+15. Usaremos diversos pipelines encadeados?
+16. Vamos criar os pipelines locais, na nuvem ou ambos?
 
 
 
